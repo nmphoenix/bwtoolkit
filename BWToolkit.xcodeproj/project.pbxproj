@@ -53,7 +53,6 @@
 		CA3A18890ECA9E86000C3A43 /* BWTransparentTextFieldCell.h in Headers */ = {isa = PBXBuildFile; fileRef = CA3A18870ECA9E86000C3A43 /* BWTransparentTextFieldCell.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		CA3A188A0ECA9E86000C3A43 /* BWTransparentTextFieldCell.m in Sources */ = {isa = PBXBuildFile; fileRef = CA3A18880ECA9E86000C3A43 /* BWTransparentTextFieldCell.m */; };
 		CA3A188C0ECA9F5B000C3A43 /* BWTransparentTextFieldCell.classdescription in Resources */ = {isa = PBXBuildFile; fileRef = CA3A188B0ECA9E9E000C3A43 /* BWTransparentTextFieldCell.classdescription */; };
-		CA40594B0EBDCBA70010580A /* Library-TokenField.tif in Resources */ = {isa = PBXBuildFile; fileRef = CA40594A0EBDCBA70010580A /* Library-TokenField.tif */; };
 		CA405A120EBF214E0010580A /* Library-TransparentTextView.tif in Resources */ = {isa = PBXBuildFile; fileRef = CA405A110EBF214E0010580A /* Library-TransparentTextView.tif */; };
 		CA405A6F0EBF2E400010580A /* BWTransparentScroller.m in Sources */ = {isa = PBXBuildFile; fileRef = CA405A6D0EBF2E400010580A /* BWTransparentScroller.m */; };
 		CA405A700EBF2E400010580A /* BWTransparentScroller.h in Headers */ = {isa = PBXBuildFile; fileRef = CA405A6E0EBF2E400010580A /* BWTransparentScroller.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -256,16 +255,6 @@
 		CA9454200DE29F0A00F103BC /* BWAnchoredButtonBar.classdescription in Resources */ = {isa = PBXBuildFile; fileRef = CA94541C0DE29E3500F103BC /* BWAnchoredButtonBar.classdescription */; };
 		CA9454210DE29F0A00F103BC /* BWAnchoredButton.classdescription in Resources */ = {isa = PBXBuildFile; fileRef = CA94541D0DE29E4600F103BC /* BWAnchoredButton.classdescription */; };
 		CA9454220DE29F0A00F103BC /* BWAnchoredPopUpButton.classdescription in Resources */ = {isa = PBXBuildFile; fileRef = CA94541E0DE29E5300F103BC /* BWAnchoredPopUpButton.classdescription */; };
-		CA960A500E75F88C00308367 /* BWTokenField.h in Headers */ = {isa = PBXBuildFile; fileRef = CA960A4E0E75F88C00308367 /* BWTokenField.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		CA960A510E75F88C00308367 /* BWTokenField.m in Sources */ = {isa = PBXBuildFile; fileRef = CA960A4F0E75F88C00308367 /* BWTokenField.m */; };
-		CA960A540E75F89400308367 /* BWTokenFieldCell.h in Headers */ = {isa = PBXBuildFile; fileRef = CA960A520E75F89400308367 /* BWTokenFieldCell.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		CA960A550E75F89400308367 /* BWTokenFieldCell.m in Sources */ = {isa = PBXBuildFile; fileRef = CA960A530E75F89400308367 /* BWTokenFieldCell.m */; };
-		CA960A560E75F8D800308367 /* BWTokenField.classdescription in Resources */ = {isa = PBXBuildFile; fileRef = CA960A4A0E75F84700308367 /* BWTokenField.classdescription */; };
-		CA960A570E75F8DD00308367 /* BWTokenFieldCell.classdescription in Resources */ = {isa = PBXBuildFile; fileRef = CA960A4C0E75F85800308367 /* BWTokenFieldCell.classdescription */; };
-		CA960A7E0E76766E00308367 /* NSTokenAttachmentCell.h in Headers */ = {isa = PBXBuildFile; fileRef = CA960A7C0E76766E00308367 /* NSTokenAttachmentCell.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		CA960A7F0E76766E00308367 /* NSTokenAttachment.h in Headers */ = {isa = PBXBuildFile; fileRef = CA960A7D0E76766E00308367 /* NSTokenAttachment.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		CA960AAB0E7676E000308367 /* BWTokenAttachmentCell.h in Headers */ = {isa = PBXBuildFile; fileRef = CA960AA90E7676E000308367 /* BWTokenAttachmentCell.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		CA960AAC0E7676E000308367 /* BWTokenAttachmentCell.m in Sources */ = {isa = PBXBuildFile; fileRef = CA960AAA0E7676E000308367 /* BWTokenAttachmentCell.m */; };
 		CA9918340DF4DA5200FE0577 /* BWButtonBarLibrary.nib in Resources */ = {isa = PBXBuildFile; fileRef = CA9918330DF4DA5200FE0577 /* BWButtonBarLibrary.nib */; };
 		CA99186C0DF51C9000FE0577 /* Inspector-ButtonBarMode1.tif in Resources */ = {isa = PBXBuildFile; fileRef = CA9918690DF51C9000FE0577 /* Inspector-ButtonBarMode1.tif */; };
 		CA99186D0DF51C9000FE0577 /* Inspector-ButtonBarMode2.tif in Resources */ = {isa = PBXBuildFile; fileRef = CA99186A0DF51C9000FE0577 /* Inspector-ButtonBarMode2.tif */; };
@@ -402,7 +391,6 @@
 		CA3A18870ECA9E86000C3A43 /* BWTransparentTextFieldCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BWTransparentTextFieldCell.h; sourceTree = "<group>"; };
 		CA3A18880ECA9E86000C3A43 /* BWTransparentTextFieldCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BWTransparentTextFieldCell.m; sourceTree = "<group>"; };
 		CA3A188B0ECA9E9E000C3A43 /* BWTransparentTextFieldCell.classdescription */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = BWTransparentTextFieldCell.classdescription; sourceTree = "<group>"; };
-		CA40594A0EBDCBA70010580A /* Library-TokenField.tif */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = "Library-TokenField.tif"; sourceTree = "<group>"; };
 		CA405A110EBF214E0010580A /* Library-TransparentTextView.tif */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = "Library-TransparentTextView.tif"; sourceTree = "<group>"; };
 		CA405A6D0EBF2E400010580A /* BWTransparentScroller.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BWTransparentScroller.m; sourceTree = "<group>"; };
 		CA405A6E0EBF2E400010580A /* BWTransparentScroller.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BWTransparentScroller.h; sourceTree = "<group>"; };
@@ -609,16 +597,6 @@
 		CA94541C0DE29E3500F103BC /* BWAnchoredButtonBar.classdescription */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = BWAnchoredButtonBar.classdescription; sourceTree = "<group>"; };
 		CA94541D0DE29E4600F103BC /* BWAnchoredButton.classdescription */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = BWAnchoredButton.classdescription; sourceTree = "<group>"; };
 		CA94541E0DE29E5300F103BC /* BWAnchoredPopUpButton.classdescription */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = BWAnchoredPopUpButton.classdescription; sourceTree = "<group>"; };
-		CA960A4A0E75F84700308367 /* BWTokenField.classdescription */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = BWTokenField.classdescription; sourceTree = "<group>"; };
-		CA960A4C0E75F85800308367 /* BWTokenFieldCell.classdescription */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = BWTokenFieldCell.classdescription; sourceTree = "<group>"; };
-		CA960A4E0E75F88C00308367 /* BWTokenField.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BWTokenField.h; sourceTree = "<group>"; };
-		CA960A4F0E75F88C00308367 /* BWTokenField.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BWTokenField.m; sourceTree = "<group>"; };
-		CA960A520E75F89400308367 /* BWTokenFieldCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BWTokenFieldCell.h; sourceTree = "<group>"; };
-		CA960A530E75F89400308367 /* BWTokenFieldCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BWTokenFieldCell.m; sourceTree = "<group>"; };
-		CA960A7C0E76766E00308367 /* NSTokenAttachmentCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NSTokenAttachmentCell.h; sourceTree = "<group>"; };
-		CA960A7D0E76766E00308367 /* NSTokenAttachment.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NSTokenAttachment.h; sourceTree = "<group>"; };
-		CA960AA90E7676E000308367 /* BWTokenAttachmentCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BWTokenAttachmentCell.h; sourceTree = "<group>"; };
-		CA960AAA0E7676E000308367 /* BWTokenAttachmentCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BWTokenAttachmentCell.m; sourceTree = "<group>"; };
 		CA9918330DF4DA5200FE0577 /* BWButtonBarLibrary.nib */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; path = BWButtonBarLibrary.nib; sourceTree = "<group>"; };
 		CA9918690DF51C9000FE0577 /* Inspector-ButtonBarMode1.tif */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = "Inspector-ButtonBarMode1.tif"; sourceTree = "<group>"; };
 		CA99186A0DF51C9000FE0577 /* Inspector-ButtonBarMode2.tif */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = "Inspector-ButtonBarMode2.tif"; sourceTree = "<group>"; };
@@ -858,8 +836,6 @@
 				CA4A50DD0E1DCB5A00BC7395 /* BWSheetController.classdescription */,
 				CA10AC030E272790009BA4D7 /* BWTransparentScrollView.classdescription */,
 				CA405A710EBF2E560010580A /* BWTransparentScroller.classdescription */,
-				CA960A4A0E75F84700308367 /* BWTokenField.classdescription */,
-				CA960A4C0E75F85800308367 /* BWTokenFieldCell.classdescription */,
 				CAEA804F0ED0A7500062B378 /* BWToolbarItem.classdescription */,
 				CAEE04F40FD7552F001A1C3F /* BWHyperlinkButton.classdescription */,
 				CAEE04F50FD75541001A1C3F /* BWHyperlinkButtonCell.classdescription */,
@@ -1054,7 +1030,6 @@
 				CA630A4D0DC7F59300AD7F9E /* Library-TexturedSlider.tif */,
 				CA4A51E20E1EC6B700BC7395 /* Library-SheetController.tif */,
 				CA630A4E0DC7F59300AD7F9E /* Library-InsetTextField.tif */,
-				CA40594A0EBDCBA70010580A /* Library-TokenField.tif */,
 				CA944E370DDFE32A00F103BC /* Library-GradientSplitView.tif */,
 				CA685E840E669FCA0003D937 /* Library-VerticalSplitView.tif */,
 				CA685E850E669FCA0003D937 /* Library-HorizontalSplitView.tif */,
@@ -1184,7 +1159,6 @@
 				CAEB146A0F4A534300E57E67 /* BWToolkitFramework.h */,
 				CAEE07790FD79CD9001A1C3F /* Styled Text Field */,
 				CAEE07720FD79440001A1C3F /* Gradient Box */,
-				CA960A4D0E75F87500308367 /* Token Field */,
 				CA4A50D80E1DC79000BC7395 /* Sheet Controller */,
 				CA325ABD0DCAB76C001446BB /* Button Bar */,
 				CA630ADE0DC7FB3800AD7F9E /* Toolbar Items */,
@@ -1304,19 +1278,6 @@
 			name = "Toolbar Items";
 			sourceTree = "<group>";
 		};
-		CA960A4D0E75F87500308367 /* Token Field */ = {
-			isa = PBXGroup;
-			children = (
-				CA960A4E0E75F88C00308367 /* BWTokenField.h */,
-				CA960A4F0E75F88C00308367 /* BWTokenField.m */,
-				CA960A520E75F89400308367 /* BWTokenFieldCell.h */,
-				CA960A530E75F89400308367 /* BWTokenFieldCell.m */,
-				CA960AA90E7676E000308367 /* BWTokenAttachmentCell.h */,
-				CA960AAA0E7676E000308367 /* BWTokenAttachmentCell.m */,
-			);
-			name = "Token Field";
-			sourceTree = "<group>";
-		};
 		CA99183C0DF4DC6200FE0577 /* Libraries */ = {
 			isa = PBXGroup;
 			children = (
@@ -1371,8 +1332,6 @@
 		CACEBC780E17759C003E3CB2 /* Private Cocoa Headers */ = {
 			isa = PBXGroup;
 			children = (
-				CA960A7D0E76766E00308367 /* NSTokenAttachment.h */,
-				CA960A7C0E76766E00308367 /* NSTokenAttachmentCell.h */,
 				CA0D2A250E2F034000E8680C /* NSWindow-NSTimeMachineSupport.h */,
 				CACEBC7A0E178524003E3CB2 /* NSCustomView.h */,
 			);
@@ -1454,11 +1413,6 @@
 				CA0D2A260E2F034000E8680C /* NSWindow-NSTimeMachineSupport.h in Headers */,
 				CA685EFF0E68C6CB0003D937 /* BWAddMiniBottomBar.h in Headers */,
 				CA685F210E68C8290003D937 /* BWAddSheetBottomBar.h in Headers */,
-				CA960A500E75F88C00308367 /* BWTokenField.h in Headers */,
-				CA960A540E75F89400308367 /* BWTokenFieldCell.h in Headers */,
-				CA960A7E0E76766E00308367 /* NSTokenAttachmentCell.h in Headers */,
-				CA960A7F0E76766E00308367 /* NSTokenAttachment.h in Headers */,
-				CA960AAB0E7676E000308367 /* BWTokenAttachmentCell.h in Headers */,
 				CA405A700EBF2E400010580A /* BWTransparentScroller.h in Headers */,
 				CA3A18890ECA9E86000C3A43 /* BWTransparentTextFieldCell.h in Headers */,
 				CAEA804D0ED0A73E0062B378 /* BWToolbarItem.h in Headers */,
@@ -1679,9 +1633,6 @@
 				CA685F320E69556F0003D937 /* BWAddMiniBottomBar.classdescription in Resources */,
 				CA6860180E6A13B00003D937 /* Library-AddMiniBottomBar.tif in Resources */,
 				CA6860440E6A26180003D937 /* Library-AddSheetBottomBar.tif in Resources */,
-				CA960A560E75F8D800308367 /* BWTokenField.classdescription in Resources */,
-				CA960A570E75F8DD00308367 /* BWTokenFieldCell.classdescription in Resources */,
-				CA40594B0EBDCBA70010580A /* Library-TokenField.tif in Resources */,
 				CA405A120EBF214E0010580A /* Library-TransparentTextView.tif in Resources */,
 				CA405AC30EBF2E760010580A /* BWTransparentScroller.classdescription in Resources */,
 				CA3A188C0ECA9F5B000C3A43 /* BWTransparentTextFieldCell.classdescription in Resources */,
@@ -1748,9 +1699,6 @@
 				CA10ABD90E272748009BA4D7 /* BWTransparentScrollView.m in Sources */,
 				CA685F000E68C6CB0003D937 /* BWAddMiniBottomBar.m in Sources */,
 				CA685F220E68C8290003D937 /* BWAddSheetBottomBar.m in Sources */,
-				CA960A510E75F88C00308367 /* BWTokenField.m in Sources */,
-				CA960A550E75F89400308367 /* BWTokenFieldCell.m in Sources */,
-				CA960AAC0E7676E000308367 /* BWTokenAttachmentCell.m in Sources */,
 				CA405A6F0EBF2E400010580A /* BWTransparentScroller.m in Sources */,
 				CA3A188A0ECA9E86000C3A43 /* BWTransparentTextFieldCell.m in Sources */,
 				CAEA804E0ED0A73E0062B378 /* BWToolbarItem.m in Sources */,
